@@ -1,0 +1,34 @@
+success
+success
+found Test100 in 0
+success
+found  Test90 in 0
+100 90 
+success
+not found
+success
+90 80 
+success
+90 80 10 
+success
+90 80 20 10 
+success
+90 80 30 20 10 
+success
+90 80 40 30 20 10 
+success
+90 80 50 40 30 20 10 
+failure
+90 80 50 40 30 20 10 
+failure
+90 80 50 40 30 20 10 
+failure
+90 80 50 40 30 20 10 
+failure
+90 80 50 40 30 20 10 
+success
+90 80 70 50 40 30 20 10 
+found Test70 in 0
+success
+90 80 50 40 30 20 10 
+not found
